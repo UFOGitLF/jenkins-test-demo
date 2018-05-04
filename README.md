@@ -1,2 +1,2 @@
 # jenkins-test-demo
-jenkins docker cobertura demo
+jenkins docker cobertura
